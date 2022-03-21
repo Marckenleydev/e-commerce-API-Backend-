@@ -1,0 +1,3 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/Marckenleydev/e-commerce-app-API-MERN-stack-project.git
